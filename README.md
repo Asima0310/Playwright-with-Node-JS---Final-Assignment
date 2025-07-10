@@ -1,6 +1,8 @@
 **Playwright Automation Project**
 This project uses Playwright with Node.js to automate UI and API testing.
 
+![image](https://github.com/user-attachments/assets/258dd224-9152-49f8-b5d7-5a04e9d86bb7)
+
 **Actions Performed**
 Login Automation
 Automates login on saucedemo.com.
